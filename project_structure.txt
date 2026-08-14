@@ -1,0 +1,12 @@
+AI_Cyber_Threat_Detection/
+├── app.py
+├── train_model.py
+├── requirements.txt
+├── README.md
+├── PROJECT_EXPLANATION.md
+├── run_windows.bat
+├── data/
+│   ├── cyber_threat_dataset.csv
+│   └── sample_upload.csv
+└── models/
+    └── cyber_threat_model.joblib
